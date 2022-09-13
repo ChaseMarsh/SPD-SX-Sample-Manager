@@ -1,1 +1,6 @@
 # SPD-SX-Sample-Manager
+
+## Overview
+Finding sound samples in the sea of sound samples is difficult enough (ex. Splice.com :heart:). Even when you find a well-produced, properly sorted and named collection (ex. iwantthatsound.com :heart:), there are still _so_ many files to sift through. Then, most samples aren't 16-bit, which the SPD-SX requires! So, you need some audio software to do the conversion. Finally, you're limited to 12 character names!!! Even if you take your 50 character folder/filename down to a 12 character unique, categorized, name for all of your kicks, snares, etc (in my case), you may lose the ability to identify what file, pack, and/or label it came from. Further, your sounds get appended to the end of the Wave List, making it inconvenient to scan across what you have in a particular category.
+
+As a drummer and a SPD-SX hobbyist, I just want to buy a sample and easily incorporate it into my Wave List so I can get to playing. The SPD-SX-Sample-Manager aims to provide an easier, more streamlined experience for casual users. There may be other software out there, but this is my take on what makes my life easier. I want to provide some core components that may be reusable to anyone wanting to build their own app. I'm starting with a .NET Core command line app, but would like to eventually have a GUI.

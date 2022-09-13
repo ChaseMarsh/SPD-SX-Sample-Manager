@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SPD.SX.SampleManager.CLI": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Sounds\\Samples\" \"C:\\Sounds\\16-bit\""
+    }
+  }
+}
